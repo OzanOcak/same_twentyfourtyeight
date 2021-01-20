@@ -1,0 +1,4 @@
+#Wed Jan 20 14:12:38 EST 2021
+base.0=/Users/ozan/dev/projects/flutter_projects/anime/twentyfortyeight/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
